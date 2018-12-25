@@ -1,0 +1,19 @@
+{
+    "name": "agmax/composer_test",
+    "description": "Test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "YuCheng",
+            "email": "agmax.tw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "vlucas/phpdotenv": "^2.5"
+    },
+    "require-dev": {
+        "recca0120/laravel-tracy": "^1.8",
+        "fzaninotto/faker": "^1.8"
+    }
+}
